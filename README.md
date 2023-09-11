@@ -1,4 +1,4 @@
-# Installation CentOS 7 vmware ESXi
+# Installation minimal version of RHEL/CentOS 7 in vmware ESXi
 
 ![image](https://github.com/arliputraa/instalation-centos7-in-vmware-esxi/assets/110078907/64b48158-e72b-4ed8-b9e0-ac08ede391ad)
 
@@ -38,6 +38,10 @@
 
 ![image](https://github.com/arliputraa/instalation-centos7-in-vmware-esxi/assets/110078907/35a78df9-21bd-4017-a1af-822aafbdb3a2)
 
+### Update System After Installation
+First thing to do after installing a minimal RHEL/CentOS 7 is to update system. This will ensure that you have latest security updates and bug fixes. To update system, use following command −
+    
+    sudo yum update
 
-
+![image](https://github.com/arliputraa/installation-centos7-vmware-esxi/assets/110078907/1f425bd8-0035-4e64-83ec-53528fb1ff57)
 
