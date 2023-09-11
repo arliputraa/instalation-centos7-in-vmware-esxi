@@ -1,4 +1,4 @@
-# Instalation CentOS 7 vmware ESXi
+# Installation CentOS 7 vmware ESXi
 
 ![image](https://github.com/arliputraa/instalation-centos7-in-vmware-esxi/assets/110078907/64b48158-e72b-4ed8-b9e0-ac08ede391ad)
 
